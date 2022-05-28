@@ -6,9 +6,7 @@ Pretendo, futuramente, ter como base esse a ideia deste projeto e evoluí-lo apl
 
 ### Enunciado do desafio proposto
 - Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: 
-~~~
-  “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
-~~~  
+> “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”  
 
 - O ponto de partida do projeto será o código criado durante o módulo do desafio, que pode ser encontrado neste repositório: https://github.com/falvojr/lab-banco-digital-oo  
 
